@@ -1,0 +1,781 @@
+No.	Question ID	Question	Labels
+1	55046d5ff8aee20f27000007	List signaling molecules (ligands) that interact with the receptor EGFR?	umls:aapp
+2	52f8b2902059c6d71c000053	Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?	umls:enzy
+3	553fa78b1d53b76422000007	Which miRNAs could be used as potential biomarkers for epithelial ovarian cancer?	umls:nusq,umls:gngm
+4	5149199dd24251bc05000040	Which acetylcholinesterase inhibitors are used for treatment of myasthenia gravis?	umls:orch,umls:clnd,umls:phsu
+5	5709e4b2cf1c32585100001c	List the human genes encoding for the dishevelled proteins?	tmtool:Gene,umls:bacs,umls:aapp
+6	56bc751eac7ad10019000013	Name synonym of Acrokeratosis paraneoplastica.	umls:neop
+7	54d4e03a3706e89528000001	Which are the classes of anti-arrhythmic drugs according to Vaughan-Williams classification?	umls:clas
+8	55072c803b8a5dc045000001	Which are the different isoforms of the mammalian Notch receptor?	tmtool:Gene,umls:bacs,umls:gngm,umls:aapp
+9	53061af558348c0f52000002	Which are the major characteristics of cellular senescence?	umls:celf,umls:comd
+10	56c1f01def6e394741000045	Orteronel was developed for treatment of which cancer?	umls:neop
+11	54d643023706e89528000007	Which is the protein that is encoded by the gene GLT8D1?	umls:gngm,umls:aapp
+12	53137541e3eabad021000010	Which are the Yamanaka factors?	umls:bacs,umls:gngm,umls:aapp
+13	56af9f130a360a5e45000015	Where is the protein Pannexin1 located?	umls:celc
+14	52bf1b0a03868f1b06000009	What is the mode of inheritance of Wilson's disease?	umls:genf
+15	52bf19c503868f1b06000001	What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?	umls:genf
+16	54f9d3eedd3fc62544000004	Which proteins participate in the formation of the ryanodine receptor quaternary macromolecular complex?	tmtool:Gene,umls:gngm,umls:aapp
+17	5505edac8e1671127b000005	What kind of chromatography is HILIC?	umls:lbpr
+18	515deafd298dcd4e51000025	List the endoscopic diagnoses that have been reported in children with autism	umls:diap
+19	5518e7da622b194345000004	Which MAP kinase phosphorylates the transcription factor c-jun?	umls:enzy
+20	530a5117970c65fa6b000007	"What is the meaning of the acronym ""TAILS"" used in protein N-terminomics?"	umls:amas
+21	52bf202003868f1b06000018	What are the main indications of lacosamide?	umls:dsyn
+22	552fac4fbc4f83e828000006	Which fusion protein is involved in the development of Ewing sarcoma?	umls:aapp
+23	56be0da3ef6e394741000007	List Hemolytic Uremic Syndrome Triad.	tmtool:Disease,umls:dsyn
+24	515a7ffdd24251bc050000a5	What are the effects of depleting protein km23-1 (DYNLRB1) in a cell?	umls:lbtr
+25	54cf7051f693c3b16b000013	Treatment of which disease was investigated in the MR CLEAN study?	umls:dsyn,umls:topp
+26	56a92be0a17756b72f000009	Which factors activate zygotic gene expression during the maternal-to-zygotic transition in zebrafish?	umls:bacs,umls:aapp
+27	54e0d1491388e8454a000014	Which enzyme is targeted by Evolocumab?	umls:enzy,umls:aapp
+28	51404dd723fec90375000002	What is the methyl donor of DNA (cytosine-5)-methyltransferases?	umls:nnon,umls:bacs,umls:phsu,umls:aapp
+29	54ede8c594afd61504000009	In which phase of the cell cycle arrest is impaired in Fanconi anemia?	umls:biof
+30	551c23bc6b348bb82c00000b	Mutation of which gene is implicated in the familial isolated pituitary adenoma?	umls:gngm
+31	5314a7a4dae131f847000003	which mutations of troponin C gene have been found to cause hypertrophic cardiomyopathy?	umls:gngm
+32	56c1f02cef6e39474100004c	GV1001 vaccine targets which enzyme?	umls:enzy,umls:aapp
+33	550af222c2af5d5b7000000b	Which is the E3 ubiquitin ligase which ubiquitinates IkB leading to its proteasomal degradation?	umls:enzy
+34	56c1f03bef6e394741000053	Mutation of which gene is implicated in the Brain-lung-thyroid syndrome?	umls:bacs,umls:aapp
+35	532498959b2d7acc7e000017	Which enzyme is targeted by the drug Imetelstat?	umls:enzy,umls:aapp
+36	56c1f005ef6e39474100003a	Which interleukins are inhibited by Dupilumab?	umls:imft,umls:aapp
+37	513ce3c8bee46bd34c000008	Which human genes are more commonly related to craniosynostosis?	umls:gngm
+38	571e1e11bb137a4b0c000004	List side effects of SGLT2 inhibitors?	umls:dsyn
+39	5509f433c2af5d5b70000008	What is the method FASP used for?	umls:mbrt
+40	533f9df0c45e133714000016	What is being measured with an accelerometer in back pain patients	umls:cnce
+41	56c1f038ef6e394741000051	List symptoms of the IFAP syndrome.	tmtool:Disease
+42	531a34d5b166e2b806000036	Which gene is required for the efficient function of clopidogrel?	umls:gngm
+43	56cdf40d5795f9a73e00003d	Which transcription factor is considered as a master regulator of lysosomal genes?	tmtool:Gene,umls:gngm
+44	53358cd2d6d3ac6a3400004e	List two common features of Tay syndrome.	umls:sosy,umls:dsyn
+45	52b2d405f828ad283c000009	Which cell types are known to be driving Rheumatoid Arthritis?	umls:cell
+46	553653a5bc4f83e828000007	Which technique is used for detection of EWS/FLI1 fusion transcripts?	umls:mbrt
+47	516e5f41298dcd4e5100007f	What is the genetic basis of Rubinstein-Taybi syndrome?	umls:gngm
+48	518cb4b5310faafe08000006	Which drugs are utilized to treat amiodarone-induced thyroitoxicosis?	umls:clnd,umls:phsu
+49	52f223e02059c6d71c00000e	Which is the genetic defect causing Neurofibromatosis type 1?	umls:comd
+50	5343caffaeec6fbd07000002	Which is the human selenoprotein that contains several Se-Cys residues?	umls:bacs,umls:aapp
+51	5150b807d24251bc05000072	How many clinical trials for off-label drugs in neonates are cited in the literature.	_QUANTITY,umls:qnco
+52	56c1d857ef6e394741000033	What enzyme is inhibied by Opicapone?	umls:enzy,umls:aapp
+53	552faa43bc4f83e828000004	Which are the genes thought to be regulated by EWS/FLI?	umls:gngm
+54	52fe58f82059c6d71c00007a	Do archaeal genomes contain one or multiple origins of replication?	_CHOICE,umls:qnco
+55	533c3af6c45e13371400000d	Which pathological conditions are caused by mutations in the CYLD gene?	umls:neop,umls:dsyn
+56	5319ac99b166e2b806000034	Which is the third subunit of the TSC1-TSC2 complex upstream of mTORC1?	umls:gngm,umls:aapp
+57	54f89e1a06d9727f76000001	Which kinase is inhibited by the small molecule KN-93?	umls:enzy,umls:aapp
+58	54d65b6b3706e8952800000c	List genes that have been found mutated in CMT1A (Charcot-Marie-Tooth disease type 1 A).	umls:gngm
+59	517a8c918ed59a060a000043	Which viruses are best known to cause myocarditis?	umls:virs
+60	571e275dbb137a4b0c000005	What are 'vildagliptin', 'sitagliptin', 'saxagliptin', 'alogliptin', 'linagliptin', and 'dutogliptin'?	umls:enzy,umls:imft,umls:aapp
+61	51739df58ed59a060a00001c	Which is the most important prognosis sub-classification in Chronic Lymphocytic Leukemia?	umls:clas
+62	56e857ae42442bac75000004	What is needed for MMP proteins to be functional?	tmtool:Chemical,umls:elii,umls:bacs,umls:phsu
+63	5509c52f1180f13250000004	What is hyperosmia	umls:dsyn
+64	535d2cf09a4572de6f000004	What is the number of long non coding RNAs in the human genome	_QUANTITY,umls:qnco
+65	55475dc2f35db75526000001	Which is the most known bacterium responsible for botulism (sausage-poisoning)?	umls:bact
+66	550320cbe9bde6963400002d	List symptoms of 4H leukodystrophy.	umls:sosy,tmtool:Disease
+67	511a4d391159fa8212000003	Which are the plant DNA (cytosine-5) methyltransferase families?	umls:dsyn,umls:gngm,umls:bacs,umls:phsu,umls:aapp
+68	52fe52702059c6d71c000078	Where is the histone variant CENPA preferentially localized?	umls:nusq
+69	517137c18ed59a060a000001	In which proteins is the chromodomain present?	umls:gngm,umls:aapp
+70	5339ecf4d6d3ac6a3400005f	Which is the prognostic meaning of delayed enhancement documented in patients hypertrophic cardiomyopathy?	umls:sosy
+71	532083389b2d7acc7e000003	Are there drugs for Tick-borne Encephalitis?	umls:clnd
+72	5717d64f29809bbe7a000001	Which is the cellular localization of the protein Opa1?	umls:celc
+73	531d7430267d7dd053000008	Which are the drugs utilized for the burning mouth syndrome?	umls:clnd
+74	5523f1a62c8b63434a000002	Which mutations of phopspholamban have been found in patients with cardiomyopathy?	umls:genf
+75	52df8ce798d023950500000d	Which are the supplemental antioxidant in athletes?	umls:orch,umls:chem,umls:phsu
+76	552421082c8b63434a000005	What is the enzymatic activity of the breast cancer associated gene BRCA1?	umls:celf
+77	5505b9ff8e1671127b000001	List markers for autophagy.	tmtool:Gene,umls:gngm,umls:aapp
+78	5710a592cf1c32585100002a	Which metabolite activates AtxA?	umls:inch
+79	532366f09b2d7acc7e000015	Which amino acid residue appears mutated in most of the cases reported with cadasil syndrome?	umls:bacs,umls:aapp
+80	55414a763f2354b713000003	Which databases exist for experimentally determined topologies of α-helical transmembrane proteins ?	umls:mnob
+81	52ed795098d0239505000032	Is the transcriptional regulator BACH1 an activator or a repressor?	_CHOICE,umls:aapp
+82	55000cc4e9bde69634000004	Which disease is characterized by congenital absence of intrinsic ganglion cells of the gastrointestinal tract?	umls:dsyn
+83	54ede28094afd61504000003	What is the disease in which patients are sensitive to DNA crosslinking agents, presenting with a high frequency of chromosomal aberrations?	tmtool:Disease,umls:dsyn
+84	56ecfd572ac5ed1459000002	How is oprozomib administered?	umls:bsoj
+85	533c2230c45e133714000002	What are the biological roles proposed for proteins containing the SPRY domain?	umls:biof
+86	514241fcd24251bc05000006	The protein NONO forms heterodimers. With which proteins?	umls:bacs,umls:gngm,umls:aapp
+87	5709ee36cf1c32585100001e	Which syndrome is associated with mutant DVL1?	umls:dsyn
+88	54d649843706e89528000009	What is the target of the drug Olaparib?	umls:enzy,umls:aapp
+89	56f802ea09dd18d46b000017	List human proteins that are subject to a dimer-to-tetramer transition.	tmtool:Gene
+90	5335c7f2d6d3ac6a34000051	Inhibition of which transporter is the mechanism of action of drug Canagliflozin?	umls:aapp,umls:phsu
+91	531376c8e3eabad021000012	which mutations of phospholamban gene have been found to cause hypertrophic cardiomyopathy?	umls:gngm
+92	5545186cbf90a13052000002	Which gene strand is targeted by transcription-coupled repair (TCR)?	umls:nusq
+93	5312280ce3eabad02100000a	Abnormalities in which chromosomes were linked to the Moyamoya disease?	umls:gngm
+94	5357a6d0f1005d6b58000004	Which is the branch site consensus sequence in U12-dependent introns?	umls:nusq
+95	54df69af1388e8454a000005	Which drugs are included in the FEC-75 regimen?	tmtool:Chemical,umls:orch,umls:clnd,umls:phsu
+96	5536554abc4f83e828000008	Between which probes does the recurrent translocation breakpoint on chromosome 22 of neuroepithelioma lie?	umls:nusq
+97	56ed03862ac5ed1459000004	Which enzyme does MLN4924 inhibit?	umls:enzy,umls:aapp
+98	54f9cb34dd3fc62544000002	Which protein has been found to interact with phospholamban (PLN) and is also an anti-apoptotic protein?	umls:bacs,umls:aapp
+99	535d3c069a4572de6f000006	What is the number of protein coding genes in the human genome?	_QUANTITY,umls:qnco
+100	515df063298dcd4e51000029	What is the indication for prophylactic use of antibiotics in COPD?	umls:sosy
+101	54d73e223706e89528000010	What is the generic name of Gliolan?	umls:bacs,umls:phsu,umls:aapp
+102	515db083298dcd4e51000012	How many genes does the human hoxD cluster contain?	_QUANTITY,umls:qnco
+103	55058af6f73303d458000004	Which protein is the E3-ubiquitin ligase that targets the tumor suppressor p53 for proteasomal degradation?	umls:gngm,umls:aapp
+104	5156be75d24251bc05000088	Which diseases is microRNA 132 (miR-132) implicated in?	umls:dsyn
+105	535d35779a4572de6f000005	What is the proportion of non canonical splice sites in the human genome?	_QUANTITY,umls:qnco
+106	55184d46622b194345000001	List protein gel staining methods visualizing the entire protein set.	umls:mbrt
+107	54cf43abf693c3b16b000008	Synostosis of which cranial structures are characteristic to the Mercedes Benz syndrome?	umls:bpoc
+108	55391ce8bc4f83e828000018	Which signaling pathways have been associated with medulloblastoma formation and growth?	umls:biof
+109	51542dc3d24251bc0500007e	What are the symptoms of abacavir hypersensitivity?	umls:sosy
+110	55376663bc4f83e82800000a	Which biomarker is widely used in the diagnosis of Ewing sarcoma?	umls:imft,umls:aapp
+111	51595fb0d24251bc0500009c	Proteomic analyses have revealed proteins associated with the triple-negative breast cancers. List some proposed proteins.	umls:gngm,umls:aapp
+112	52f11b922059c6d71c000004	Which signalling pathway is involved in Tuberous Sclerosis?	umls:celf
+113	536787467d100faa09000010	Which is the relation between sweating and anaerobic threshold?	umls:cnce
+114	5547d700f35db75526000007	Which are the major types of the motor speech disorder dysarthria?	umls:fndg,umls:dsyn
+115	571f609c0fd6f91b6800000c	Which enzyme deficiency can cause GM1 gangliosidoses?	umls:enzy,umls:phsu,umls:aapp
+116	55032e65e9bde69634000034	What is the characteristic feature of the Dyke-Davidoff-Masson syndrome.	umls:sosy,tmtool:Disease,umls:dsyn
+117	5717d86029809bbe7a000003	Which gene is involved in the development of Barth syndrome?	umls:gngm
+118	531b1e3cb166e2b80600003b	Which histone modifications are associated with Polycomb group (PcG) proteins?	umls:genf
+119	52d832dd98d0239505000003	List phosphorylation consensus motifs for Casein Kinase 1 (CK1)?	umls:amas
+120	56bb616dac7ad10019000008	What medication were compared in the ROCKET AF Trial?	tmtool:Chemical,umls:orch,umls:phsu
+121	514a0f4ad24251bc05000053	How many genes are in the gene signature screened by MammaPrint?	_QUANTITY,umls:qnco
+122	535d59349a4572de6f000009	What are the indications for treatment with anti-hepcidin?	umls:dsyn
+123	51651e24298dcd4e51000054	How many genera comprise the Flaviviridae family?	_QUANTITY,umls:qnco
+124	5713bf261174fb1755000011	For the constructions of which organs has 3D printing been tested?	umls:bpoc
+125	52fbe2bf2059c6d71c00006c	Where is the histone variant CENPA preferentially localized?	umls:gngm
+126	52b2e498f828ad283c000010	Mutation of which gene is associated with Achondroplasia?	umls:rcpt,umls:gngm,umls:aapp
+127	5147c088d24251bc05000026	Which type of lung cancer is the most strongly associated with Lambert-Eaton syndrome?	umls:neop,umls:dsyn
+128	5503263fe9bde69634000030	List three major features of the CCFDN syndrome.	umls:sosy,umls:cgab,tmtool:Disease
+129	5309f8f5970c65fa6b000001	Which oncogenes are able to induce cellular senescence?	umls:enzy,umls:gngm,umls:aapp
+130	517901bc8ed59a060a00003b	The antibodies MK-3475 and CT-011 have shown promising results in treating malignancies. Which protein are they targeting?	umls:gngm,umls:aapp
+131	5517f9286487737b43000002	Which are the different proteins/isoforms encoded but the ASPH (aspartate beta-hydroxylase) gene in humans?	umls:aapp
+132	54e0e902ae9738404b000001	What family do mDia proteins belong in?	umls:aapp
+133	554356d0ed966d112c000005	"Which is the most common measure of differences between dinucleotide relative abundance ""genomic signatures"""	umls:cnce
+134	532206819b2d7acc7e00000f	Name a method for enrichment of arginine-methylated peptides.	umls:mbrt
+135	54d8fd334b1fd0d33c000005	Rindopepimut is an analog of which growth factor?	umls:rcpt,umls:aapp
+136	52ea605098d0239505000028	Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?	umls:gngm
+137	52f89fc62059c6d71c000050	From which tissue was the NCI-H520 cell-line derived?	umls:neop,umls:tisu
+138	52f350042059c6d71c000010	What is the incidence of Edwards syndrom in the european population?	_QUANTITY,umls:qnco
+139	54f60ae05f206a0c06000008	What is the substrate of the microbial enzyme inulinase?	umls:carb
+140	517a8cc68ed59a060a000044	What is the treatment of acute myocarditis?	umls:topp,umls:phsu
+141	5318367cb166e2b806000012	List causative genes for autosomal recessive forms of monogenic Parkinson's disease	umls:gngm
+142	52e8e98298d0239505000020	Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?	umls:dsyn
+143	5324a8ac9b2d7acc7e000018	What tyrosine kinase, involved in a Philadelphia- chromosome positive chronic myelogenous leukemia, is the target of Imatinib (Gleevec)?	umls:enzy,umls:gngm
+144	571e172bbb137a4b0c000002	When was empagliflozin FDA approved?	umls:orch
+145	56be06cdef6e394741000004	List symptoms of congenital toxoplasmosis triad.	tmtool:Disease,umls:dsyn
+146	57090c33cf1c325851000013	How many genes are imprinted in the human genome?	_QUANTITY
+147	515d1ff7298dcd4e51000009	Which cellular processes are regulated by Nanog?	umls:celf
+148	5157539ed24251bc0500008a	Gene silencing can be achieved by RNA interference (RNAi) in eukaryotic organisms. What is the name of the analogous process in prokaryotic organisms?	umls:npop,umls:orgf
+149	530cf4e0c8a0b4a00c000004	Which mutations of alpha-myosin heavy chain gene are implicated in hypertrophic cardiomyopathy?	umls:gngm
+150	530cf4e0c8a0b4a00c000005	Which are the cardiac manifestations of Marfan syndrome?	umls:sosy,umls:dsyn
+151	530cf4e0c8a0b4a00c000006	Which is the most common cause of sudden cardiac death in young athletes?	umls:dsyn
+152	530cf4e0c8a0b4a00c000007	What is the rate of survival after commotio cordis?	_QUANTITY,umls:qnco
+153	52e0141498d023950500000e	What are the results of loss of the protein Lon1 in the plant Arabidopsis?	umls:sosy
+154	572096c90fd6f91b6800000e	Which gene is involved in Giant Axonal Neuropathy?	umls:gngm
+155	5173bdb38ed59a060a000020	How many TAp73 isoforms have been identified in humans?	_QUANTITY,umls:qnco
+156	5518e817622b194345000006	Which are the different members/isoforms of the Ras oncogenes?	umls:gngm
+157	53442ca9aeec6fbd0700000b	Which is the subcellular localization of ERAP2?	umls:celc
+158	530cefaaad0bf1360c000003	What are the names of anti-CD52 monoclonal antibody that is used for treatment of multiple sclerosis patients?	umls:orch,umls:imft,umls:aapp,umls:phsu
+159	530cefaaad0bf1360c000002	Which brain structures have been investigated as potential targets for deep brain stimulation of patients suffering from major depression?	umls:bpoc
+160	530cefaaad0bf1360c000007	List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.	umls:imft,umls:phsu,umls:aapp
+161	52ecf2dd98d023950500002e	Which deiodinase polymorphisms are implicated in arterial hypertension?	umls:gngm
+162	52efbfccc8da898910000018	At which kind of individuals is pharmacological treatment of subclinical hypothyroidism effective in reducing cardiovascular events?	umls:qlco
+163	52d63b2803868f1b0600003a	From which tissue was the NCI-H520 cell-line derived?	umls:bpoc,umls:tisu
+164	5319abe4b166e2b80600002e	Which transcription factors are involved in E-cadherin repression during EMT?	umls:gngm,umls:aapp
+165	54ff30dc6ad7dcbc1200000f	List human diseases involving genomic imprinting.	umls:dsyn
+166	530cefaaad0bf1360c000012	Which deficiency is the cause of restless leg syndrome?	umls:inch,umls:elii,umls:bacs,umls:phsu
+167	53398855d6d3ac6a3400005b	What histone modification is recognized by the bromodomain?	umls:aapp
+168	530cefaaad0bf1360c000011	"What memory problems are reported in the "" Gulf war syndrome""?"	umls:sosy,umls:mobd
+169	55031628e9bde69634000024	Which neuroendocrine tumors are associated with specific tumor syndromes?	tmtool:Disease,umls:neop,umls:dsyn
+170	56d1da3b67f0cb3d66000006	How many periods of regulatory innovation led to the evolution of vertebrates?	_QUANTITY
+171	530cefaaad0bf1360c00000c	List medication interfering with purine metabolism that are used for treatment of T-cell prolymphocytic leukemia?	umls:nnon,umls:antb,umls:clnd
+172	530cefaaad0bf1360c00000d	Which hormone abnormalities are common in Williams syndrome ?	umls:horm,umls:dsyn
+173	56f6d11c09dd18d46b00000f	Which is the protein encoded by the human gene GRIK?	umls:gngm
+174	550c4011a103b78016000009	Which residue of alpha-synuclein was found to be phosphorylated in Lewy bodies?	umls:aapp
+175	54d670163706e8952800000f	List Genes associated with adolescent idiopathic scoliosis	umls:gngm
+176	5324cf139b2d7acc7e00001f	List the off-label use of SSRIs	umls:sosy,umls:mobd,umls:dsyn
+177	56bc9268ac7ad1001900001b	What molecule is targeted by brodalumab?	umls:imft,umls:aapp
+178	54ff5197e9bde69634000001	"How long, in kb (kilobases), is a ""Long interspersed nuclear element""?"	_QUANTITY,umls:qnco
+179	5343fc1aaeec6fbd07000003	Which is the gene mutated in type 1 neurofibromatosis?	umls:neop,umls:gngm
+180	54cf705ff693c3b16b000014	List receptors of the drug Cilengitide	umls:rcpt,umls:aapp
+181	5171a1498ed59a060a000012	Which genes are more frequently affected by somatic mutations in Chronic Lymphocytic Leukemia	umls:gngm
+182	516be1d6298dcd4e5100006a	What is the mode of inheritance of nemaline myopathy?	umls:genf
+183	56d860ad51531f7e33000002	Which syndrome is NHE6 associated with?	umls:dsyn
+184	52bf1cad03868f1b0600000a	Which virus is Cidofovir (Vistide) indicated for?	umls:virs,umls:dsyn
+185	54d77bdf3706e89528000019	List chromosomes that have been linked to Arnold Chiari syndrome in the literature.	umls:nusq
+186	552faababc4f83e828000005	Which translocation is the hallmark of Ewing sarcoma?	umls:lbpr,umls:phpr
+187	55390901bc4f83e828000014	What is the effect of CRD-BP on the stability of c-myc mRNA?	umls:celf
+188	5311b99ae3eabad021000004	Which medical diagnostic tests are used to test kidney function?	umls:enzy,umls:diap,umls:lbpr,umls:topp,umls:rcpt,umls:bacs,umls:phsu,umls:aapp
+189	53189656b166e2b80600001c	Against which protein is the antibody used for immonostaining of Lewy bodies raised?	umls:bacs,umls:aapp
+190	5131fa145274a5fb07000009	Which are the main causes of fetal echogenic bowel?	umls:dsyn
+191	54d6562c3706e8952800000b	Which is the enzymatic activity of the myotubularin family of proteins?	umls:biof
+192	515ddda6298dcd4e5100001f	What is the percentage of responders to tetrabenazine treatment for dystonia in children?	_QUANTITY,umls:qnco
+193	56bc7d71ac7ad10019000018	Which disease can be treated with Delamanid?	umls:dsyn
+194	51630226298dcd4e5100004d	What are the advantages of the top down mass spectrometric analysis of histones?	umls:lbtr
+195	52b2e1d8f828ad283c00000c	What is the indication of Daonil (Glibenclamide)?	umls:dsyn
+196	55411d9f379ddf3f47000001	Which is the most typical peptide sequence responsible for retrieval of endoplasmic reticulum (ER) lumenal proteins from the Golgi apparatus?	umls:rcpt,umls:aapp
+197	5505eed08e1671127b000006	List the main proteases used for sample digestion in proteomics.	umls:enzy,umls:aapp
+198	55451e53bf90a13052000003	Which proteins act as factors that promote transcription-coupled repair in bacteria?	umls:aapp
+199	54d907c84b1fd0d33c000008	Which molecule is targeted by a monoclonal antibody Mepolizumab?	umls:imft,umls:aapp
+200	550342a8f8aee20f27000002	Which is the major symptom of the Doose syndrome?	umls:sosy,tmtool:Disease,umls:dsyn
+201	52eea509c8da89891000000d	Which genes are affected in ROMANO-WARD syndrome?	umls:gngm
+202	54e1252fae9738404b000003	What are the major clinical Villefranche criteria for classic Ehlers-Danlos syndrome?	umls:fndg,umls:sosy
+203	515da6e2298dcd4e51000010	What is the treatment of neuropathic pain in children?	umls:clnd
+204	532aad53d6d3ac6a34000010	Is there a crystal structure of the full-length of the flaviviridae NS5(Methyltransferase - RNA depended RNA Polymerase) ?	umls:virs
+205	5118dd1305c10fae75000001	Is Rheumatoid Arthritis more common in men or women?	_CHOICE,umls:humn
+206	534ebb59288f4dae47000004	Which methyl-CpG-binding protein when mutant becomes the hallmark for Rett syndrome?	umls:bacs,umls:aapp
+207	517a8bef8ed59a060a000041	Which deiodinases are present in skeletal muscle?	umls:enzy,umls:aapp
+208	5148885ad24251bc05000032	Which genes are involved in patient response to warfarin?	umls:gngm,umls:aapp
+209	54d7ae1fe19bba8909000001	Which is the molecular weight of the protein angiogenin?	umls:qnco
+210	571e189dbb137a4b0c000003	List sodium glucose co-transporter-2 (SGLT2) inhibitors that have been FDA approved for type 2 diabetes mellitus treatment.	umls:orch,umls:phsu
+211	532f55fed6d3ac6a34000036	What is the gene mutated in the Gaucher disease?	umls:enzy,umls:gngm,umls:aapp
+212	52bf1f4503868f1b06000016	For the treatment of which conditions can atypical neuroleptic drugs be used?	umls:mobd,umls:dsyn
+213	52eeddfcc8da898910000010	Which are the characteristics of Andersen syndrome?	umls:sosy
+214	5519110f622b19434500000c	Which disease is included as an additional feature in the Goldberg-Shprintzen syndrome?	umls:dsyn
+215	54ff45966ad7dcbc12000010	Which protein is causing Netherton syndrome?	umls:gngm,umls:aapp
+216	550c3754a103b78016000007	Which disease of the central nervous system is characterized by the presence of Lewy bodies?	umls:dsyn
+217	517a8b768ed59a060a00003f	Which deiodinase is known to be present in liver?	umls:enzy,umls:aapp
+218	54fb6fb5d176fff445000004	Which proteins participate in the formation of the Notch transcriptional activation complex?	umls:aapp
+219	52fa6ac72059c6d71c000055	Is the transcriptional regulator BACH1 an activator or a repressor?	_CHOICE,umls:clas
+220	56c1f003ef6e394741000039	What molecule is targeted by suvorexant?	tmtool:Chemical,umls:bacs,umls:aapp
+221	571e14fbbb137a4b0c000001	For which type of diabetes can empagliflozin be used?	umls:dsyn
+222	532c0c21d6d3ac6a3400001b	Which are the main methods for pharmacophore modelling?	umls:resa
+223	52f77f4d2059c6d71c00002a	Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?	umls:enzy,umls:gngm,umls:aapp
+224	5166f41a298dcd4e5100005b	Which are the inhibitors of histone methyltransferases?	umls:orch
+225	52efc016c8da89891000001a	What is the life expectancy of professional athletes in respect to the general population?	umls:qlco
+226	517539af8ed59a060a000026	Which genes are regulated by MEF-2 in the heart?	umls:clas
+227	53357193d6d3ac6a34000047	Which JAK (Janus kinase) inhibitor is approved for treatment of rheumatoid arthritis?	umls:orch,umls:clnd,umls:phsu
+228	52d2818403868f1b06000033	Which are the newly identified DNA nucleases that can be used to treat thalassemia?	umls:enzy,umls:aapp
+229	5708a845cf1c32585100000f	Which signaling pathway is activating the dishevelled proteins?	umls:moft
+230	51405cd123fec90375000005	Which is the defective protein causing the lysosomal storage disease Fabry?	umls:enzy,umls:phsu,umls:aapp
+231	571cd9537de986d80d00000e	List inflammatory caspase proteins?	umls:enzy,umls:aapp
+232	553c994af32186855800000b	List invertebrates where ultraconserved elements have been identified.	umls:orgm
+233	5503133ae9bde6963400001d	Which gene is most commonly associated with severe congenital and cyclic neutropenia?	umls:gngm
+234	54e061ee1388e8454a00000c	List two chemotherapeutic agents that are used for treatment of Subependymal Giant Cell Astrocytoma	tmtool:Chemical,umls:orch,umls:clnd
+235	553d061cf321868558000013	List available databases containing information about conserved noncoding elements.	umls:mnob
+236	52b2e409f828ad283c00000e	What disease in Loxapine prominently used for?	umls:mobd,umls:dsyn
+237	56c1f040ef6e394741000055	Which antibodies cause Riedel thyroiditis?	umls:imft,umls:aapp
+238	5179602c8ed59a060a00003d	What are the effects of ILK ablation?	umls:sosy
+239	56f24fec2ac5ed1459000015	Which RNA polymerase is used for the replication of viroids?	umls:enzy,umls:aapp
+240	5318380bb166e2b806000013	List Parkin binding partners	umls:gngm,umls:aapp
+241	54e1bdacae9738404b000009	What is generic name of drug Adempas?	umls:orch,umls:clnd,umls:phsu
+242	56f146db2ac5ed145900000f	Is single guide RNA part of the CRISPR/Cas9 tool or an inhibitor of its function?	_CHOICE
+243	5321bc309b2d7acc7e00000d	What is the target protein of the drug Idelalisib?	umls:aapp
+244	51588bb2d24251bc05000091	Which antiepileptic drug is most strongly associated with spina bifida?	umls:orch,umls:clnd,umls:phsu
+245	571cdd227de986d80d00000f	Which bacteria caused plague?	umls:bact
+246	54f9b74306d9727f76000004	The drug JTV519 is derivative of which group of chemical compounds?	umls:orch
+247	53440d2caeec6fbd07000004	Is the long non- coding RNA malat-1 up or downregulated in cancer?	_CHOICE,umls:qlco
+248	530c7f52970c65fa6b000010	Oxantel is used for periodontitis treatment. How does it work?	umls:topp
+249	531d744c267d7dd053000009	What is the function of the protein encoded by the gene PABPC4?	umls:biof
+250	55241f9e2c8b63434a000004	What kind of enzyme is encoded by the proto-oncogene ABL1?	umls:enzy,umls:gngm,umls:aapp
+251	52ee9f55c8da898910000009	What is the mode of inheritance of Romano Ward long QT syndrome?	umls:genf
+252	52e92c6e98d0239505000024	Which gene is associated with the Mitchell-Riley syndrome?	umls:gngm
+253	5324cca79b2d7acc7e00001d	What are the mobile applications fields of use for patients ?	umls:topp
+254	54f431d664850a5854000006	Which are the genes responsible for Dyskeratosis Congenita?	tmtool:Gene,umls:gngm
+255	5354f289288f4dae47000008	Name five programs for transcript quantification from RNASeq experiments	umls:mnob
+256	550c3d45a103b78016000008	What is the main component of the Lewy bodies?	umls:bacs,umls:aapp
+257	570a5343cf1c325851000022	List variants of the MC1R gene.	tmtool:ProteinMutation
+258	56cdf5315795f9a73e000046	Which is the enzyme that degrades decapped mRNAs?	umls:gngm
+259	56f780cb09dd18d46b000011	Which is the target protein of the drug nivolumab?	umls:imft,umls:rcpt,umls:aapp
+260	5141bcd423fec9037500000d	The CXCR2 receptor is targeted in cancer. Name five antagonists.	umls:chem
+261	5717dbfe7de986d80d000001	What is the functional role of the protein Drp1?	umls:celf
+262	52bf1af803868f1b06000008	Which diseases are caused by mutations in Calsequestrin 2 (CASQ2) gene?	umls:dsyn
+263	550303a5e9bde6963400000c	In which diseases have electronic patient diaries been applied ?	umls:dsyn
+264	56ed0ffe2ac5ed1459000008	Which type of myeloma is ixazomib being evaluated for?	umls:neop
+265	51bdf045047fa84d1d000003	Which are the Atg8 homologs in human?	umls:gngm,umls:aapp
+266	56b76d916e3f8eaf4c000001	To which family does the Zika virus belong?	umls:virs
+267	5177def18ed59a060a000034	Which is the molecular mechanism underlying K-ras alterations in carcinomas?	umls:npop,umls:comd
+268	515db020298dcd4e51000011	List all clinical trials of the polypill.	umls:resa
+269	56f4011709dd18d46b000003	What is the main symptom of Marfan syndrome patients?	umls:dsyn
+270	51635202298dcd4e5100004f	How is myotonic dystrophy inherited?	umls:genf
+271	533c2a55c45e133714000003	Which are the mammalian orthologs of Drosophila Yki?	umls:bpoc,umls:gngm
+272	553f72edab98a37113000007	What is the typical outer diameter of microtubules (tubulin heterodimers)?	_QUANTITY,umls:qnco
+273	5506ce078e1671127b00000b	Which protein phosphatase has been found to interact with the heat shock protein, HSP20?	tmtool:Gene,umls:enzy,umls:imft,umls:aapp
+274	54fc99f36ad7dcbc12000004	Neurostimulation of which nucleus is used for treatment of dystonia?	umls:bpoc
+275	5548da00f35db7552600000b	Which myosin isozymes are located within the pericuticular necklace of the hair cell?	umls:aapp
+276	530db83b38c1322806000002	Which proteins cause cytoplasmic sequestration of NF-kB?	umls:bacs,umls:gngm,umls:aapp
+277	532f0bd6d6d3ac6a3400002d	What is the mode of inheritance of Marchesani syndrome?	umls:fndg,umls:genf
+278	56c1f007ef6e39474100003b	Tumor-treating fields are effective for treatment of which cancers?	umls:neop
+279	56e46ad951531f7e3300001a	List angiocrine factors	umls:aapp
+280	530cf22aa177c6630c000004	What is the main role of Ctf4 in dna replication?	umls:celf
+281	53130a77e3eabad02100000f	Which hormone deficiency is implicated in the Costello syndrome ?	umls:horm,umls:phsu,umls:aapp
+282	530cf22aa177c6630c000005	List the components of a Replisome Progression Complex (RPC).	umls:bacs,umls:gngm,umls:aapp
+283	56c5feb75795f9a73e000006	Which is the most common CFTR mutation in Caucasians?	umls:aapp
+284	56bf487def6e394741000011	Which CDK targets control cytokinesis?	umls:bacs,umls:aapp
+285	5543a1b2ee40ea110c000001	In what type(s) of plant organelles we can detect prolamellar bodies?	umls:celc
+286	54d669003706e8952800000e	When are itaconic acid levels elevated?	umls:biof
+287	5713bc991174fb1755000010	Which genes are associated with autosomal dominant Charcot-Marie-Tooth?	umls:gngm
+288	54fb4b34d176fff445000001	Which transcription factors (TFs) participate in the formation of the interferon-beta (IFN-b) enhanceosome?	tmtool:Gene,umls:aapp
+289	56c1f010ef6e394741000041	Simpson grading is used to describe resection of which brain tumor?	umls:neop
+290	51596a8ad24251bc0500009e	Where in the cell do we find the protein Cep135?	umls:celc
+291	56c1f00def6e39474100003f	Which enzyme is inhibited by Varespladib?	umls:enzy,umls:aapp
+292	571e12097de986d80d000017	Which protein does empagliflozin inhibit?	umls:gngm
+293	515de993298dcd4e51000024	List all reported treatment options for anxiety in autism spectrum disorder.	umls:topp
+294	54fc9b236ad7dcbc12000005	List adenosine A2A receptor antagonists that are used for Parkinson's disease treatment.	umls:orch,umls:clnd,umls:phsu
+295	533ba218fd9a95ea0d000007	What is the clinical indication of cardiac T1 mapping magnetic resonance?	umls:sosy
+296	5540fbce234c5a7c75000001	Which autophagy pathway is trigered by the KFERQ motif of cytosolic proteins?	umls:celf,umls:biof
+297	52f77f042059c6d71c000029	Which are the clinical characteristics of TSC?	umls:fndg,umls:sosy,umls:mobd,umls:neop,umls:dsyn
+298	54fe09036ad7dcbc12000009	List fish anti-freeze proteins.	umls:aapp
+299	5343bdd6aeec6fbd07000001	Which is the phosphorylated residue in the promoter paused form of RNA polymerase II?	umls:orch,umls:aapp
+300	517295c18ed59a060a000016	Name the major classes of small non coding RNAs in mammalians?	umls:nnon,umls:nusq,umls:bacs
+301	5311bcc2e3eabad021000005	Describe a diet that reduces the chance of kidney stones.	umls:topp
+302	5505c9008e1671127b000002	List the components of mTOR Complex 2 (mTORC2).	umls:gngm,umls:aapp
+303	52fe54252059c6d71c000079	Which proteins act as histone-like molecules in prokaryotes?	umls:bacs,umls:aapp
+304	5326c6fed6d3ac6a3400000c	Which are the mains risk factors of metabolic syndrome?	umls:sosy
+305	5319a6c9b166e2b806000022	Which multiple kinase inhibitors are used in cancer therapy?	umls:orch,umls:clnd,umls:phsu
+306	5518414a15fa47643f000001	Which gene(s) should be genotyped in order to prescribe the drug Cetuximab (anti-EGFR)?	umls:gngm
+307	56ae57350a360a5e4500000a	Which is the physiological target for LeuRS translational quality control?	tmtool:Chemical,umls:aapp
+308	56e6ec49edfc094c1f000005	Which is the target of the drug Denosumab?	umls:bacs,umls:aapp
+309	53357ca0d6d3ac6a3400004b	Which enzyme is inhibited by a drug fostamatinib?	umls:enzy,umls:aapp
+310	51542dabd24251bc0500007d	Which gene test can be used for the X-linked myotubular myopathy?	umls:lbpr,umls:medd
+311	571ce13f7de986d80d000011	In which cells are gasdermins expressed?	umls:cell
+312	550718e9fd1abe1741000001	Where in a protein can a signal sequence be found?	umls:enzy,umls:aapp
+313	56c1f039ef6e394741000052	Which antibody is implicated in the Bickerstaff's brainstem encephalitis?	umls:irda
+314	533c3533c45e133714000004	Which micro-RNAs have been associated in the pathogenesis of Rheumatoid Arthritis?	tmtool:Gene,umls:nusq,umls:gngm
+315	52f112bb2059c6d71c000002	Which are the enzymes involved in the addition of 7-methylguanosine in mRNA?	umls:enzy,umls:gngm,umls:aapp
+316	55203ae78e534a4535000001	In which condition was protein S100A7 originally identified?	umls:dsyn
+317	514217a6d24251bc05000005	Which are the available biomedical text mining tools for the detection of protein-protein interactions?	umls:mnob
+318	532670e7d6d3ac6a34000008	What is the typical alteration of the thyroid profile metabolism early after coronary artery bypass graft surgery?	umls:dsyn
+319	5358e067f1005d6b5800000b	Which proteins are involved in actin bundling and filopodia formation and function?	umls:bacs,umls:gngm,umls:aapp
+320	56b76f496e3f8eaf4c000002	What does the SAGA complex acronym stands for?	umls:enzy,umls:aapp
+321	56cae60f5795f9a73e00002b	Which polyQ tract protein is linked to Spinocerebellar Ataxia type 2?	umls:bacs,umls:aapp
+322	56e0447a51531f7e3300000b	Which are the smallest known subviral pathogens of plants?	umls:virs
+323	52f893f92059c6d71c00003c	List clinical trials for prevention of sarcopenia	umls:resa
+324	554140ad182542114d000003	Which is the database of molecular recognition features in membrane proteins?	umls:mnob
+325	554148c23f2354b713000001	Which database is available for the identification of chorion proteins in Lepidopteran proteomes?	umls:mnob
+326	56cb9b065795f9a73e000032	Which kinase is inhibited by Tripolin A?	umls:enzy,umls:aapp
+327	52d1389303868f1b06000032	List the existing methods for genetic manipulation of cells.	umls:mbrt
+328	53188480b166e2b806000018	Which is the cellular target of gefitinib?	umls:enzy,umls:rcpt,umls:aapp
+329	54ede76294afd61504000008	What is the risk of developing acute myelogenous leukemia in Fanconi anemia?	umls:qnco
+330	52c7311903868f1b0600001d	How many different mutations have been associated with Muenke syndrome?	_QUANTITY,umls:qnco
+331	54c90dabf693c3b16b000004	Which genes have been proposed as potential candidates for gene therapy of heart failure?	umls:gngm,umls:aapp
+332	54f1e031c409818c32000001	DX-88 is investigational name of which drug?	umls:clnd,umls:phsu,umls:aapp
+333	52f8995b2059c6d71c00004a	Which genes have been found to be associated with restless leg syndrome	umls:gngm
+334	56c4d14ab04e159d0e000003	Do the Sleeping Beauty or the piggyBac transposons have higher transposition efficiency?	_CHOICE
+335	530cf4d5e2bfff940c000003	Which are the known inhibitors of the TPL2/MAP3K8 protein?	umls:orch
+336	52bf1dea03868f1b06000012	What are the side effects of Nalmefene?	umls:sosy
+337	530cf4d5e2bfff940c000004	Which are the most common methods for gene prioritization analysis?	umls:resa
+338	513ce494bee46bd34c000009	Which is the most common disease attributed to malfunction or absence of primary cilia?	umls:dsyn
+339	56c86aa95795f9a73e000018	Treprostinil is an analogue for which prostaglandin?	umls:orch,umls:bacs,umls:phsu
+340	571f5e740fd6f91b6800000b	Which enzyme is deficient in Gaucher's disease?	umls:enzy,umls:aapp
+341	55376f19bc4f83e82800000c	Which is the most common type of pediatric cerebellar tumor?	umls:neop,umls:dsyn
+342	5319a7d2b166e2b806000029	Which is the E3 ubiquitin ligase of Hsp90?	umls:enzy,umls:aapp
+343	55439140ed966d112c00000a	Which are the major phycobiliproteins present in cyanobacteria?	umls:aapp
+344	5547a01cf35db75526000005	In which kingdom do microsporidia belong, according to their current classification scheme?	umls:grup,umls:fngs
+345	51656c94298dcd4e51000058	What is the inheritance pattern of Emery-Dreifuss muscular dystrophy?	umls:genf
+346	56b710f276d8bf8d13000003	What is the effect of a defective CLN3 gene?	umls:dsyn
+347	517539ca8ed59a060a000027	Which genes are regulated by TRalpha2 in the heart?	umls:gngm
+348	554143ad182542114d000004	List available methods for transmembrane protein topology prediction.	umls:mnob
+349	5319abffb166e2b80600002f	Which growth factors are known to be involved in the induction of EMT?	umls:aapp
+350	5319a6e9b166e2b806000023	Which is the genetic lesion associated with Huntington’s disease?	umls:nusq
+351	56c703445795f9a73e00000a	Which histone modification discriminates between active and poised enhancers?	umls:aapp
+352	52bf208003868f1b06000019	What is the inheritance pattern of Li–Fraumeni syndrome?	umls:genf
+353	514a51c2d24251bc0500005c	Which pituitary adenoma is common cause of infertility is women?	umls:neop,umls:dsyn
+354	534bb147aeec6fbd07000014	Which are the cardiac effects of thyronamines?	umls:sosy
+355	55086ea1098a1b487b000001	Matuzumab has been tested for treatment of which cancers?	tmtool:Disease,umls:spco,umls:neop,umls:bpoc,umls:dsyn,umls:blor
+356	5171651e8ed59a060a000009	Which are the synonyms of prostate-specific antigen?	umls:moft,umls:enzy,umls:aapp
+357	55414c65472cfd8617000001	List available biomedical question answering systems.	umls:mnob
+358	517a8c238ed59a060a000042	Which dediodinases are present in kidney?	umls:enzy,umls:aapp
+359	54edf72c94afd61504000013	What is the presumed key event in Fanconi anemia pathogenesis?	umls:celf
+360	530e1c985937551c09000004	List common symptoms of patients with the DOORS syndrome.	umls:fndg,umls:sosy,umls:cgab,umls:mobd,umls:dsyn
+361	512d2fff5274a5fb07000006	Is the H3K4me3 histone mark related to transcriptional initiation or elongation?	_CHOICE,umls:phpr
+362	5326a85ad6d3ac6a3400000b	What does polyadenylate-binding protein 4 (PABP4) bind to?	umls:nusq
+363	515db3d8298dcd4e51000015	What is the average diameter of intermediate filaments?	_QUANTITY,umls:qnco
+364	51680a6d298dcd4e51000063	What is the function of cryptochrome-1 in mouse?	umls:biof
+365	5540ca8a0083d1bf0e000003	Which intermediate filament (IF) protein can be used as a non-specific marker of the neuronal precursor cells of the subventricular zone?	umls:bacs,umls:aapp
+366	51585b28d24251bc0500008d	Which enzyme is involved in the maintenance of DNA (cytosine-5-)-methylation?	umls:enzy,umls:gngm
+367	516c0ebc298dcd4e5100006e	Which genes does thyroid hormone receptor beta1 regulate in the liver?	umls:gngm
+368	515dd3d5298dcd4e5100001c	In what proportion of children with heart failure has Enalapril been shown to be safe and effective?	_QUANTITY,umls:qnco
+369	54e262daae9738404b000018	Which cell type has the protein Chromogranin A as marker?	umls:cell
+370	56c8605b5795f9a73e000014	Which kinases does baricitinib inhibit?	umls:enzy,umls:aapp
+371	550b0408c2af5d5b7000000c	Magnetic beads has been used in numerous applications. List some coatings used.	umls:chem
+372	56d1f790f22319765a000001	Which gene harbors the mutation T790M?	umls:enzy,umls:rcpt,umls:aapp
+373	51477de5d24251bc05000020	Tumors of which three organs are classically associated with the multiple endocrine neoplasia type 1 syndrome?	umls:bpoc
+374	57138eb21174fb175500000a	Which is the protein implicated in Spinocerebellar ataxia type 3?	umls:aapp
+375	513ce5f2bee46bd34c00000a	Which is the prevalence of cystic fibrosis in the human population?	_QUANTITY,umls:qnco
+376	5524562387ecba3764000001	Which are the different homologs or family members of the hedgehog proteins in mammals?	umls:dsyn,umls:bacs,umls:gngm,umls:aapp
+377	5505a587f73303d458000005	What does mTOR stands for?	umls:bacs,umls:aapp
+378	51486f7dd24251bc0500002e	Which scales are recommended by the American Heart Association for depression screening in cardiovascular patients?	umls:inpr,umls:cnce
+379	56cf236f3975bb303a000002	Which calcium channels does ethosuximide target?	umls:bacs,umls:aapp
+380	55201a316b348bb82c000019	What is the sedimentation coefficient of the mammalian mitoribosome?	umls:bacs,umls:qnco,umls:aapp
+381	52ef7754c8da898910000014	Which proteins act as histone-like molecules in prokaryotes?	umls:bacs,umls:aapp
+382	55032efde9bde69634000035	Which receptor is targeted by telcagepant?	umls:horm,umls:rcpt,umls:aapp
+383	5319a724b166e2b806000025	Which trinucleotide repeat disorders are affecting the nervous system?	umls:dsyn
+384	53188992b166e2b806000019	Which are the cellular targets of imatinib mesylate?	umls:enzy,umls:rcpt,umls:aapp
+385	52ebb2c698d0239505000029	Which are the clinical characteristics of Tuberous Sclerosis?	umls:sosy
+386	54f0920f94afd61504000018	List drugs included in the DHAP-R chemotherapy regiment.	tmtool:Chemical,umls:clnd,umls:phsu
+387	553babc0f321868558000007	Which types of bacterial microflora are associated with the progression of peri-implantitis?	umls:fngs,umls:bact,umls:aapp
+388	5162c8a8298dcd4e51000047	What are the known families of deadenylases?	umls:orch,umls:bacs,umls:gngm,umls:phsu,umls:aapp
+389	553656c4bc4f83e828000009	Which translocation is harbored in the Askin tumor cells?	umls:phpr
+390	56c1d856ef6e394741000032	Which pathway is activated by ficolin-3?	umls:moft
+391	516281e6298dcd4e51000040	Global quantitative phosphoproteomic analyses are emerging. List the preferred technologies for the enrichment for phosphorylated peptides?	umls:mbrt
+392	54d646403706e89528000008	List disorders that have been associated to the polymorphism rs2535629.	umls:mobd,umls:dsyn
+393	56c1f01aef6e394741000043	What is targeted by monoclonal antibody Pembrolizumab?	umls:gngm
+394	52e8e93498d023950500001e	What is the mode of inheritance of Facioscapulohumeral muscular dystrophy (FSHD)?	umls:genf
+395	534df8c9aeec6fbd07000016	List diseases where protein citrullination plays an important role.	umls:dsyn
+396	53035d7c2059c6d71c000085	What is commotio cordis?	umls:dsyn
+397	56bb68f9ac7ad1001900000b	What is the cause of Phthiriasis Palpebrarum?	umls:euka
+398	54f9ae2506d9727f76000002	Which gene is mutated in a subtype of arrhythmogenic right ventricular cardiomyopathy known as Naxos disease?	umls:fndg,umls:gngm
+399	56c1f020ef6e394741000047	Which disorder is rated by Palmini classification?	_QUANTITY
+400	5713c8d71174fb1755000015	Which peripheral neuropathy has been associated with NDRG1 mutations?	umls:dsyn
+401	51bdd9c2047fa84d1d000002	Which is the receptor for substrates of Chaperone Mediated Autophagy?	umls:rcpt
+402	52f509512059c6d71c000020	What is the mode of inheritance of short QT syndrome?	umls:genf
+403	530e0d6e5937551c09000001	List clinical trials that have directly compared microsurgical clipping with endovascular coiling for treatment of ruptured brain aneurysms?	umls:resa
+404	5311bf53e3eabad021000006	Which are the biotracers used for detection of Alzheimer's disease using PET?	umls:orch
+405	515bd543298dcd4e51000001	In which isochores are Alu elements enriched?	umls:nusq
+406	52e6c92598d0239505000019	Which are the mutational hotspots of the human KRAS oncogene?	umls:nusq
+407	57279ef20fd6f91b68000018	Which intraflagellar transport (IFT) motor protein has been linked to human skeletal ciliopathies?	umls:celf
+408	5353aedb288f4dae47000006	Which is the transcript responsible for X-chromosome inactivation?	umls:nusq,umls:gngm
+409	56c83f365795f9a73e000011	Which domain allowing self-association do exist in TDP-43 and FUS proteins?	umls:bacs,umls:aapp
+410	531778ddb166e2b80600000f	Which are the Chompret criteria for Li-Fraumeni syndrome?	umls:sosy
+411	52bf1f1303868f1b06000014	What type of enzyme is peroxiredoxin 2 (PRDX2)?	umls:enzy,umls:phsu
+412	52fb42752059c6d71c00005e	Which are the thyroid hormone analogs utilized in human studies?	umls:orch,umls:phsu
+413	56be0e4aef6e394741000008	List Kartagener Syndrome Triad.	umls:dsyn
+414	550f0e4c6a8cde6b72000003	Which disease is associated with the ectopic expression of the protein encoded by the gene DUX4?	umls:dsyn
+415	5319ac36b166e2b806000031	Which G protein is essential in the formation and function of lamellipodia?	umls:gngm,umls:aapp
+416	54dfc6501388e8454a000009	Which are the main functions of the APOBEC3 family of proteins?	umls:biof
+417	52e0c9a298d0239505000010	Which histone modifications are associated with constitutive heterochromatin?	umls:genf
+418	530cf54dab4de4de0c00000c	What is the main application of SWATH-MS in proteomics?	umls:lbpr
+419	52bf217003868f1b0600001b	What can Nothobranchius furzeri be used as a model system for?	umls:emod
+420	54f2228e64850a5854000002	Which is the mass-tag that reveal the ubiquitination of a lysine residue?	umls:aapp
+421	5323640b9b2d7acc7e000014	Which gene is involved in CADASIL?	umls:gngm
+422	51487ef9d24251bc05000031	Which two catechol-O-methyl transferase (COMT) inhibitors can be used for treatment of Parkinson disease?	umls:orch,umls:clnd,umls:phsu
+423	5505db6a8e1671127b000003	What are the structures formed when keratin molecules come together?	umls:celc
+424	531d1998267d7dd053000001	Which is the prognostic impact of hypothyroidism in patients with acute myocardial infarction?	umls:dsyn
+425	54c225bcf693c3b16b000002	Mutations of which genes have been associated with Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT)?	umls:gngm
+426	532c0d7fd6d3ac6a3400001c	List programs suitable for pharmacophore modelling	umls:mnob
+427	530c844e970c65fa6b000014	List disorders that are caused by mutations in the mitochondrial MTND6 gene.	umls:dsyn
+428	52bf1d2e03868f1b0600000c	Which gene is associated with Muenke syndrome?	umls:rcpt,umls:gngm,umls:aapp
+429	56bc77a3ac7ad10019000015	RTS S AS01 vaccine was developed to prevent which disease?	tmtool:Disease,umls:dsyn
+430	517a8bab8ed59a060a000040	Which deiodinases are best known to be present in brain?	umls:enzy,umls:aapp
+431	5149a61ed24251bc05000044	What are the computational methods for the prediction of beta-barrel transmembrane proteins?	umls:mbrt
+432	54cb9c94f693c3b16b000005	Which is the main regulatory molecule of SERCA2A function in the cardiac muscle?	umls:enzy,umls:gngm,umls:aapp
+433	5519113b622b19434500000f	Which gene is responsible for the development of the Mowat-Wilson syndrome?	umls:gngm
+434	531d6bfc267d7dd053000007	How is active neurotoxin of Clostridium botulinum detected?	umls:lbpr,umls:dsyn,umls:mbrt
+435	5149f494d24251bc0500004c	Which medication should be administered when managing patients with suspected acute opioid overdose?	umls:orch,umls:clnd
+436	5547a7e9f35db75526000006	Which enzymes are involved in global genome nucleotide excision repair (GG-NER) in bacteria?	umls:enzy,umls:aapp
+437	54df695b1388e8454a000004	What is the synonym of the lubag disease?	tmtool:Disease,umls:dsyn
+438	56bcdf1ad36b5da378000009	Dracorhodin perchlorate was tested for treatment of which cancers?	tmtool:Disease,umls:neop
+439	51724fca8ed59a060a000013	Which is the execution time (complexity) of the Smith-Waterman algorithm for the alignment of two sequences	umls:qnco
+440	56bcc455d36b5da378000003	List mutations that are implicated in the Gray Platelet Syndrome.	umls:gngm
+441	5506c3e38e1671127b00000a	The small molecule SEA0400 is an inhibitor of which ion antiporter/exchanger?	umls:elii
+442	52f89fd32059c6d71c000051	List interaction partners for the protein GATA1.	umls:aapp
+443	533675ced6d3ac6a34000056	What histone variants play a role in the DNA damage reponse?	umls:genf,umls:gngm
+444	52f895602059c6d71c000040	List tele monitoring applications of miniaturised sensors	umls:fndg,umls:clna,umls:moft,umls:orga,umls:diap,umls:ortf,umls:topp,umls:hlca
+445	553c9f96f32186855800000c	How are ultraconserved elements called when they form clusters?	umls:nusq
+446	56cf36263975bb303a000007	Which disease has been associated to a disruptive ALX1 protein?	umls:cgab
+447	517170c48ed59a060a00000d	How many selenoproteins are encoded in the human genome?	_QUANTITY,umls:qnco
+448	534eb34b288f4dae47000002	In which process Src, Cortactin and MT1-MMP are playing an essential role?	umls:biof
+449	56e2acfe51531f7e33000014	During which stage of the cell cycle is cohesin deposited on the yeast genome?	umls:tmco
+450	517818508ed59a060a000035	Which is the neurodevelopmental disorder associated to mutations in the X- linked gene mecp2?	umls:dsyn
+451	56d04a533975bb303a000010	What is dovitinib?	umls:phsu
+452	551829a76487737b43000009	List the diseases for which there are point-of-care breath tests	umls:dsyn
+453	534abe8aaeec6fbd07000013	Which heat shock protein is found to be upregulated during Hsp90 inhibition?	umls:bacs,umls:aapp
+454	571f33bd0fd6f91b68000003	Which gene is responsible for the development of Sotos syndrome?	umls:gngm
+455	53617eeb7d100faa0900000a	What is the name for anorexia in gymnasts?	umls:dsyn
+456	52bf209303868f1b0600001a	What are the indications for alteplase?	umls:dsyn
+457	55152bd246478f2f2c000002	List scaffold proteins of the ERK signaling pathway.	umls:gngm,umls:aapp
+458	516c3960298dcd4e51000073	Which are the families of mammalian DNA-(cytosine-5)-methyltransferases?	umls:gngm,umls:aapp
+459	54e0ac041388e8454a00000f	Which classes of endogenous retroelements are known to date?	umls:nusq
+460	553a7a59f321868558000002	List GATA-1 interacting partners as discovered with the help of the biotinylation tagging approach.	umls:aapp
+461	52f129d92059c6d71c000009	Which diseases are associated with Alu element insertion?	umls:dsyn
+462	534e364e288f4dae47000001	Approximately how many recombination hotspots have been found in the yeast genome?	_QUANTITY,umls:qnco
+463	533ea8fcc45e133714000010	What is the name of the stem loop present in the 3' end of genes encoding for selenoproteins?	umls:genf,umls:nusq
+464	55192f20622b194345000014	Which proteins are the different members of the NF-kappaB family of transcription factors?	umls:bacs,umls:gngm,umls:aapp
+465	571e417bbb137a4b0c00000a	What are the symptoms of Rotor syndrome?	umls:dsyn
+466	52fa73e82059c6d71c000059	List the existing methods for genetic manipulation of cells.	umls:mbrt
+467	54edf81f94afd61504000014	Which SWI/SNF protein complex subunit has been demonstrated to interact with the FANCA gene product?	umls:bacs,umls:aapp
+468	554397f6ed966d112c00000c	List representatives of the major fungal hypoxanthine-adenine-guanine transporter families.	umls:aapp
+469	551910d3622b194345000008	Which proteins have been identified as RET ligands?	umls:bacs,umls:gngm,umls:aapp
+470	5314b20bdae131f847000005	Which substances are dangerous to g6PD deficient individuals?	umls:orch,umls:clnd,umls:food
+471	52ef7786c8da898910000015	Do archaeal genomes contain one or multiple origins of replication?	_CHOICE,umls:qlco
+472	52fb78d82059c6d71c000068	Which mutations of SCN5A gene are implicated in Brugada syndrome?	umls:gngm
+473	535d5bac7d100faa09000001	List all articles on network meta-analysis for smoking cessation	umls:inpr
+474	55200c606b348bb82c000013	Which clotting factor is inhibited by betrixaban?	umls:gngm,umls:aapp
+475	55031270e9bde6963400001a	Which are the most frequent syndromes associated with inherited bone marrow failure?	umls:dsyn
+476	56d2ac03f22319765a000004	Which ones are the ESKAPE organisms?	umls:bact
+477	5324bdba9b2d7acc7e00001a	How is bladder wall thickness measured?	umls:diap
+478	54f35ad864850a5854000004	LY450139 is investigational name of which drug?	umls:orch,umls:clnd,umls:phsu
+479	5727ab040fd6f91b68000019	Which gene has been found to be mutant in Lesch-Nyhan Disease patients?	umls:dsyn
+480	516e7fda298dcd4e51000081	Which is the methyl donor of histone methyltransferases?	umls:orch,umls:bacs,umls:phsu,umls:aapp
+481	515870cdd24251bc0500008f	Carbapenemase-producing gram-negative bacteria is a major health concern because their resistance to antibiotics. List the most frequent carbapenemases found in Enterobacteriaceae.	umls:enzy,umls:dsyn,umls:bacs,umls:gngm,umls:phsu,umls:aapp
+482	5171438a8ed59a060a000007	What is the gene frequently mutated in Multiple endocrine neoplasia 2 (MEN2) and Hisrchsprung disease?	umls:bpoc,umls:gngm
+483	52f4f1d62059c6d71c00001c	Which are the clinical characteristics of isolated Non-compaction cardiomyopathy?	umls:sosy,umls:patf,umls:dsyn
+484	533c384dc45e133714000006	In which genomic positions is the histone variant macroH2A enriched?	umls:nusq
+485	56ffd08bcf1c325851000009	From which sequence does the Alu repeat originate from?	umls:nnon,umls:bacs,umls:aapp
+486	5313058de3eabad02100000e	Abnormality in which vertebral region is important in the Bertolotti's syndrome?	umls:spco,umls:blor
+487	54da32bc0f63c58e6e000001	Which is the main target of the anti-arrhythmic activity of flecainide?	umls:bacs,umls:aapp
+488	54d8ea2c4b1fd0d33c000002	Which is the most prevalent form of arrhythmia worldwide?	umls:dsyn
+489	54e071e11388e8454a00000d	Which agents are included in the FLAMSA chemotherapy regimen?	umls:nnon,tmtool:Chemical,umls:clnd,umls:phsu
+490	5506e2ff8e1671127b00000d	Which are the subunits of the IkB protein kinase (IKK)?	umls:enzy
+491	53189b05b166e2b80600001e	Which glands are subject to attack by lymphocytes in Sjogren's syndrome?	umls:cgab,umls:bpoc
+492	51716a438ed59a060a00000a	Name five popular computer programs used to identify genes in genomic sequences	umls:mnob
+493	514168ab23fec9037500000a	Which are the major transcription factors regulating glycolysis in mammals?	umls:gngm,umls:aapp
+494	51542e44d24251bc05000081	Mutations in which gene determine response to both erlotinib and gefitinib?	umls:enzy,umls:rcpt,umls:gngm,umls:aapp
+495	53215fca9b2d7acc7e000005	Which protein complexes contain mitofilin?	umls:celf,umls:enzy,umls:gngm,umls:aapp
+496	5148e1d6d24251bc0500003a	Mutation of which gene and which chromosome cause Neurofibromatosis type I?	umls:celc,umls:gngm
+497	515c4f05298dcd4e51000006	Which genes does thyroid hormone receptor alpha1 regulate in the heart?	umls:gngm
+498	54d662113706e8952800000d	What is the content of the METLIN database?	umls:mnob
+499	550739cf3b8a5dc045000002	Which is the RNA sequence of the canonical polyadenylation signal?	umls:nnon,tmtool:Chemical,umls:nusq,umls:bacs
+500	56ae40110a360a5e45000009	Which computational frameworks are available for predicting enhancers?	tmtool:Chemical
+501	5311d130e3eabad021000009	Which proteins in the cerebro-spinal fluid can be used for early diagnosis of Alzheimer's disease?	umls:lbpr,umls:aapp
+502	52f509232059c6d71c00001f	Which genes are implicated in short QT syndrome?	umls:gngm
+503	535d69177d100faa09000003	What is SCENAR therapy used for?	umls:patf,umls:mobd,umls:dsyn
+504	56be1723ef6e39474100000c	List symptoms of Gradenigo's syndrome.	umls:dsyn
+505	53261e79600967d132000003	What is the relationship between thyroid hormone and inflammatory markers in heart failure patients?	umls:ftcn
+506	550e9d2cb305b40c5c000001	Which variables are included in the SPAN-100 score?	umls:cnce
+507	516c0ed3298dcd4e5100006f	Which genes does thyroid hormone receptor alpha1 regulate in the liver?	umls:enzy,umls:gngm,umls:aapp
+508	56f961b3cf1c325851000003	What is the color of the protein Ranasmurfin?	umls:qlco
+509	516ec97f298dcd4e51000087	By which methods can we evaluate the reliability of a phylogenetic tree?	umls:mbrt
+510	53372ba3d6d3ac6a34000058	Which histone modification is primarily linked to elongating transcription?	umls:genf
+511	56c1f02aef6e39474100004b	Which interleukin is blocked by Siltuximab?	umls:imft,umls:aapp
+512	551fd9c06b348bb82c000012	ROSIER scale is used for which disorder?	umls:dsyn
+513	54d7a1047035c08008000002	Which is the subcellular localization of the protein angiogenin?	umls:celc
+514	5324d0169b2d7acc7e000022	List FDA approved treatments for androgenetic allopecia	umls:orch,umls:topp,umls:phsu
+515	55054f8af73303d458000002	Which bone protein is used in archaelogy for dating and species identification?	umls:aapp
+516	54fc9ca16ad7dcbc12000006	Which receptors are targeted by suvorexant?	umls:rcpt,umls:gngm,umls:aapp
+517	515d7693298dcd4e5100000c	A common problem in proteomics is the contamination of samples with exogenous proteins (often from other species). These proteins can be found in specific databases. List some contaminants.	umls:aapp
+518	56f7c15a09dd18d46b000012	Which gene has been implicated in Majeed Syndrome?	umls:gngm
+519	5523e7837b523f2123000006	What is Trypan blue used for?	umls:mbrt
+520	56c1f045ef6e394741000058	Selexipag is used for which disease?	umls:dsyn
+521	56c1f030ef6e39474100004d	List features of the DEND syndrome.	tmtool:Disease,umls:dsyn
+522	52d8494698d0239505000007	Which genes have been found mutated in Gray platelet syndrome patients?	umls:gngm
+523	550ea8f1b305b40c5c000005	Pridopidine has been tested for treatment of which disorder?	umls:dsyn
+524	5319a708b166e2b806000024	Which is the target of bortezomib used in cancer therapy?	umls:celf
+525	550312b4e9bde6963400001c	Which genes are known to be involved in Diamond-Blackfan anemia?	tmtool:Gene,umls:gngm
+526	56c079b1ef6e394741000022	Idarucizumab is an antidote of which drug?	tmtool:Chemical,umls:orch,umls:phsu
+527	5178d6be8ed59a060a000038	What is a popular mesaure of gene expression in RNA-seq experiments?	umls:cnce
+528	531dd4af267d7dd05300000d	Inhibition of which enzyme is mechanism of action of alisertib?	umls:enzy,umls:aapp
+529	54edaee3445c3b5a5f000003	List the three most prevalent pathogenic species of Borrelia in Europe.	tmtool:Species,umls:bact
+530	52ece29f98d023950500002c	Which thyroid hormone transporter is implicated in thyroid hormone resistance syndrome?	umls:aapp
+531	5506eca18e1671127b00000f	Which are the subunits of the transcription factor NF-kappaB in the canonical pathway activation?	umls:fndg,tmtool:Gene,umls:gngm,umls:bacs,umls:aapp
+532	5148691bd24251bc0500002d	Which protein is affected by dusp8 activation?	umls:moft,umls:aapp
+533	5335d4e8d6d3ac6a34000053	Which receptors are targeted by a drug Macitentan?	umls:rcpt,umls:aapp
+534	518ba4b5310faafe08000005	Which drugs are utilized to treat eosinophilic esophagitis?	umls:clnd,umls:phsu
+535	56c3320a50c68dd416000008	What is the incidence of cystic fibrosis in the caucasian population?	_QUANTITY
+536	5318929fb166e2b80600001b	What is the Her2 status in Li-Fraumeni syndrome?	umls:clas
+537	51475d5cd24251bc0500001b	Where is X-ray free electron laser used?	umls:mbrt
+538	54db7c4ac0bb8dce23000001	Which protein kinases have been found to phosphorylate Phospholamban and affect its biological activity?	umls:enzy,umls:aapp
+539	54e0c3e71388e8454a000013	Which enzyme is inhibited by Orteronel?	umls:enzy,umls:aapp
+540	54db5e24bcba1b1817000002	What is the disorder in which mutations in U4atac snRNA are detected?	umls:cgab,umls:dsyn
+541	515d692c298dcd4e5100000a	Which is the binding site motif of Sp1?	umls:nusq
+542	56f8077a8b98c98849000002	List autoimmune disorders associated with GAD65 autoantibodies.	umls:dsyn
+543	530cf51d5610acba0c000001	What is the clinical indication of cardiac T1 mapping magnetic resonance?	umls:dsyn
+544	5503145ee9bde69634000022	How many different subtypes of thyroid cancer exist?	_QUANTITY,umls:dsyn
+545	53175e9fb166e2b80600000a	What is the physiological role of LKB1 involved in Peutz-Jeghers syndrome?	umls:celf
+546	53265dd4d6d3ac6a34000007	What is the prognostic role of alterred thyroid profile after cardiosurgery?	umls:sosy
+547	55149f156a8cde6b72000013	"Which gene fusion is the result of the ""philadelphia translocation"" or the ""philadelphia chromosome"" mutation?"	umls:phpr
+548	52f637972059c6d71c000025	Which gene mutations are responsible for isolated Non-compaction cardiomyopathy?	umls:gngm
+549	571e40a8bb137a4b0c000009	Which syndrome is associated with OATP1B1 and OATP1B3 deficiency?	umls:dsyn
+550	530cf4fe960c95ad0c00000b	Which type of lung cancer is afatinib used for?	umls:dsyn
+551	56c1f009ef6e39474100003c	Which disease is treated with Eliglustat?	umls:dsyn
+552	5333f728d6d3ac6a34000041	List algorithms suitable for predicting protein complexes	umls:resa
+553	54e0ace81388e8454a000010	Is APOBEC3B protein predominantly cytoplasmic or nuclear?	_CHOICE,umls:celc
+554	56afe6d40a360a5e45000017	Which tool is used for promoterome mining using CAGE data?	umls:bacs,umls:aapp
+555	52e62bae98d0239505000015	What is the life expectancy of professional athletes in respect to the general population?	umls:qnco
+556	51434c74d24251bc0500000c	What are the computational tools for the prediction of beta-barrel transmembrane proteins?	umls:mnob
+557	515b30d8d24251bc050000b0	Where can we find the protein lacritin?	umls:bpoc,umls:dsyn,umls:bdsu
+558	532f49f8d6d3ac6a34000035	What is the triple screening test performed during pregnancy measuring?	umls:diap,umls:horm,umls:aapp,umls:phsu
+559	5150f401d24251bc05000075	What are the generic versions of Viagra?	umls:phsu
+560	51601071298dcd4e51000038	Against which organisms has reverse vaccinology been used?	umls:orgm
+561	56c1f021ef6e394741000048	Galassi classification is used for which disorder?	umls:dsyn
+562	515993f3d24251bc050000a0	Which compounds exist that are thyroid hormone analogs?	umls:orch
+563	53357c98d6d3ac6a3400004a	What genes are related to breast cancer?	umls:gngm
+564	52bf1d9e03868f1b06000010	To the ligand of which receptors does Denosumab (Prolia) bind?	umls:rcpt,umls:bacs,umls:aapp
+565	5523e47f7b523f2123000004	List fluorescent reporter proteins.	umls:aapp
+566	54fb5720d176fff445000002	"Which transcription factors are known as the four (4) ""Yamanaka factors"" that have been used to create induced pluripotent stem cells (iPSCs)?"	tmtool:Gene,umls:orch,umls:bacs,umls:gngm,umls:phsu,umls:aapp
+567	5363bad27d100faa0900000e	Which are the most abundant human lincRNA?	tmtool:Gene,umls:nusq,umls:gngm
+568	56cafa845795f9a73e00002e	Which protein pathway is regulating SGK1-mediated phosphorylation of FOXO3a to control cell proliferation?	umls:moft
+569	532b15ecd6d3ac6a34000014	Which drugs have been found effective for the treatment of chordoma?	umls:clnd
+570	54f5bc7d5f206a0c06000001	What is the function of caspases?	umls:biof
+571	54d8d60d014675820d000007	List BRAF inhibitors that have been tested in clinical trials for treatment of melanoma patients	tmtool:Chemical,umls:orch,umls:clnd,umls:phsu
+572	531375a6e3eabad021000011	which are the risk factors for sudden cardiac death in patients with hypertrophic cardiomyopathy?	umls:sosy
+573	56d1e23c67f0cb3d66000009	Which are the coactivators of the Yes-associated protein (yap)?	umls:bacs,umls:aapp
+574	531af8cbb166e2b80600003a	How many genes outside of the MHC locus have been genetically associated to Rheumatoid Arthritis through GWAS?	_QUANTITY,umls:qnco
+575	5544de7a5beec11c10000005	In which phase of cell cycle does stress-induced transcription-associated mutagenesis (TAM) occur?	umls:resd,umls:tmco
+576	531b3ff3b166e2b80600003d	Which proteins are related to the loss of cell-cell adhesion during EMT (epithelial-mesenchymal transition)?	umls:gngm,umls:aapp
+577	55421ee7ccca0ce74b000002	"Which tumor suppressor is referred to as ""the guardian of the genome""?"	umls:gngm,umls:aapp
+578	514a0a57d24251bc05000051	Which drug should be used as an antidote in benzodiazepine overdose?	umls:orch,umls:clnd,umls:phsu
+579	5314c7afdae131f84700000a	List common features of Shapiro syndrome	umls:sosy,umls:dsyn
+580	52f5417b2059c6d71c000024	List mouse models for autism spectrum disorder (ASD).	umls:emod
+581	53262cdcd6d3ac6a34000003	What is the definitive treatment for low pressure headache?	umls:topp
+582	53036faab24d855b11000001	What is the incidence of sudden cardiac death among young athletes?	_QUANTITY,umls:qnco
+583	56f5692f09dd18d46b00000a	Mutations in which genes have been associated with Aicardi-Goutieres syndrome?	tmtool:Gene,umls:gngm
+584	530a3e18970c65fa6b000005	List bacteria that may be useful in uranium bioremediation.	umls:bact
+585	52fb7c512059c6d71c000069	How much should be the duration of the QT interval in patients with short QT syndrome?	_QUANTITY,umls:tmco
+586	5162e44f298dcd4e5100004a	The protein neprilysin has an positive effect on Alzheimer disease, how can it be delivered to the brain?	umls:acty
+587	56f7fe3709dd18d46b000015	Which disease is linked to mutations within BRAG1?	umls:dsyn
+588	54db62a3034aea571d000001	Which is the main calcium pump of the sarcoplasmic reticulum?	umls:enzy,umls:aapp
+589	5344155faeec6fbd07000005	What is the inheritance pattern of Hunter disease or mucopolysaccharidosis II?	umls:fndg,umls:genf
+590	553ca8d8f32186855800000d	What is the effect of the absence of Saccharomyces cerevisiae Rrm3p?	umls:patf
+591	532f1452d6d3ac6a34000030	What is the ubiquitin proteome?	umls:cnce
+592	570a922dcf1c325851000028	Which major signaling pathways are regulated by RIP1?	umls:celf
+593	5547ec32f35db7552600000a	What is the effect induced by sympathetic nervous system on pupil size?	umls:sosy
+594	515de572298dcd4e51000021	List all clinical trials of the polypill.	umls:resa
+595	5173eb428ed59a060a000021	What type of cancers and inherited diseases have been associated to mutations in the Notch pathway?	umls:dsyn
+596	52c7275103868f1b0600001c	What is the inheritance pattern of Apert syndrome?	umls:genf
+597	5139b31dbee46bd34c000004	Which is the most widely used model for the study of multiple sclerosis (MS)?	umls:emod
+598	52f21b722059c6d71c00000b	What is the usual HER-2 status in breast cancer associated with Li-Fraumeni syndrome?	umls:fndg,umls:clas
+599	518cb6ab310faafe08000009	What is the treatment of triiodothyronine toxicosis?	umls:clnd
+600	51bdb644047fa84d1d000001	Which are the known human transmembrane nucleoporins?	umls:gngm,umls:aapp
+601	55192892622b194345000012	Which E3 ubiquitin ligase mediates the ubiquitination and degradation of the interferon receptor type 1 (IFNAR1)?	umls:enzy
+602	534ab91eaeec6fbd07000012	Which genes were found to be methylated in bladder cancer cells?	umls:gngm
+603	532dcfc9d6d3ac6a34000021	What is the characteristic domain of histone methyltransferases?	umls:amas,umls:aapp
+604	51740da48ed59a060a000024	Which are the bioinformatics tools for gene structure prediction?	umls:mnob
+605	5543829fed966d112c000009	Which is the major phytoalexin in alfalfa (Medicago sativa L.)?	umls:orch,umls:phsu
+606	56f564f909dd18d46b000009	Which syndrome is associated with mutations in the LYST gene?	umls:dsyn
+607	51766e438ed59a060a000031	Name the factors required for selenoprotein synthesis in eukaryotes	umls:gngm,umls:aapp
+608	552435602c8b63434a000009	Which genes/proteins have been found to inhibit cyclin dependent kinase 4 (CDK4)?	umls:gngm,umls:aapp
+609	54f21b69c409818c32000007	Which disorders are associated to mutated Hepcidin (HAMP)?	umls:dsyn
+610	550618f58e1671127b000007	Which protein is the main inhibitor of protein phosphatase 1 (PP1)?	tmtool:Gene,umls:bacs,umls:gngm,umls:aapp
+611	56cdf5195795f9a73e000045	Which protein is required for Argonaute 2 recruitment to stress granules and P-bodies?	umls:bacs,umls:aapp
+612	51487dead24251bc05000030	Which pharmacogenetic test is available for abacavir?	umls:lbpr
+613	52e203bc98d0239505000011	Which are the most under-represented oligonucleotides in higher eukaryote genomes?	umls:nusq
+614	515df86a298dcd4e5100002e	"List co-morbidities that may occur together with ""Stiff man Syndrome"""	umls:dsyn
+615	5322d3cb9b2d7acc7e000010	Which are the enzymes involved in the control of tubulin acetylation?	umls:enzy,umls:gngm,umls:aapp
+616	515de748298dcd4e51000023	List all approved indications for Glivec	umls:neop,umls:dsyn
+617	54dfbed11388e8454a000008	Which proteins induce inhibition of LINE-1 and Alu retrotransposition?	umls:aapp
+618	53147b52e3eabad021000015	What is a benefit of being g6PD-deficient?	umls:sosy
+619	52bf1f2d03868f1b06000015	Which drug is benserazide usually co-administered with?	umls:bacs,umls:clnd,umls:phsu,umls:aapp
+620	52bf19f703868f1b06000002	What is the inheritance pattern of Catecholaminergic Polymorphic Ventricular Tachycardia (CPVT) caused by RYR2 mutations?	umls:genf
+621	5149aafcd24251bc05000045	Which are the available biomedical text mining tools for the detection of protein-protein interactions?	umls:mnob
+622	570917bccf1c325851000015	Do A-type lamins bind euchromatin or heterochromatin?	_CHOICE
+623	5519a7d5622b194345000015	Which is the most abundant membrane protein on Earth?	umls:aapp
+624	52fe4ad52059c6d71c000077	Which histone modifications are associated with constitutive heterochromatin?	umls:genf
+625	51600ab3298dcd4e51000036	Which are the most commonly reported pathological states associated with the formation of DNA G-quadruplexes?	umls:dsyn
+626	56c1f000ef6e394741000037	Which drugs are included in TAS-102?	tmtool:Chemical,umls:phsu
+627	52f21e8f2059c6d71c00000c	What is the most probable defect underlying triple negative breast cancer?	umls:sosy
+628	5147c8a6d24251bc05000027	Which enzyme is deficient in Krabbe disease?	umls:enzy
+629	52f65bf02059c6d71c000026	Which deiodinase polymorphisms are implicated in arterial hypertension?	umls:gngm
+630	515db20e298dcd4e51000014	What are the current treatments for generalised anxiety disorder in teenagers?	umls:topp
+631	54f60ea05f206a0c06000009	Is there any genetic determinant of hair pigmentation that could be useful in forensic analyses?	umls:gngm
+632	54cf6d40f693c3b16b00000e	Which drugs acting via bradykinin system are effective for treatment of ACE-inhibitor-induced angioedema?	umls:clnd,umls:phsu,umls:aapp
+633	515bf6d6298dcd4e51000004	Which forms of cancer is the Tpl2 gene associated with?	umls:dsyn
+634	530cf4fe960c95ad0c000007	What are the indications for hydrochlorothiazide?	umls:dsyn,umls:phsu
+635	52bf1cb303868f1b0600000b	What hand deformities do patients with Apert syndrome present with?	umls:sosy
+636	51631154298dcd4e5100004e	What disease is Velcade (bortezomib) mainly used for?	umls:neop,umls:dsyn
+637	5539029cbc4f83e828000012	Which genes are thought to be involved in medulloblastoma development?	umls:gngm
+638	52fb78572059c6d71c000067	What is the prevalence of short QT syndrome?	_QUANTITY,umls:qnco
+639	5300aad02059c6d71c000080	Which sports have a risk for commotio cordis?	umls:dora,umls:acty
+640	55181d1e6487737b43000008	What are the breath test biomarkers of pulmonary tuberculosis	umls:chem
+641	553e1aa5a3cf796f71000003	What types of DNA mutations are induced by 2-hydroxy-dATP (2-OH-dATP)?	umls:genf
+642	56c08702ef6e394741000024	Which diseases can be treated with Afamelanotide?	umls:dsyn
+643	54cf45e7f693c3b16b00000a	Which is the main calcium binding protein of the sarcoplasmic reticulum?	umls:bacs,umls:gngm,umls:aapp
+644	571f5d3e0fd6f91b6800000a	For which diseases members of the 2-aminobenzamide class of histone deacetylase (HDAC) inhibitors show promise as therapeutics?	umls:dsyn
+645	52fc94db2059c6d71c000074	List anti-amyloid-beta monoclonal antibodies that have been investigated in clinical trials for treatment of Alzheimer disease.	umls:imft,umls:phsu,umls:aapp
+646	516e5f25298dcd4e5100007d	Which anticancer drugs target human topoisomerase II?	umls:orch,umls:clnd,umls:phsu
+647	52fc8b772059c6d71c00006e	Which are the known inhibitors of the TPL2/MAP3K8 protein?	umls:chem
+648	54ede95c94afd6150400000a	What is the mode of inheritance in Fanconi anemia?	umls:genf
+649	52f896d62059c6d71c000046	"What memory problems are reported in the "" Gulf war syndrome"""	umls:sosy,umls:mobd
+650	553fca6054168f6c79000002	Which proteins compose the error prevention GO (8-oxo-G) system in Pseudomonas putida?	umls:enzy,umls:aapp
+651	52ee065d98d0239505000033	List five applications of machine learning algorithms in medical diagnosis.	umls:resa
+652	56c04412ef6e39474100001b	Which molecule is targeted by Daratumumab?	umls:imft,umls:aapp
+653	52f899952059c6d71c00004b	Which mutation is associated with PLMS (periodic limb movements in sleep)?	umls:gngm
+654	53161545b166e2b806000002	Which DNA repair system is involved in HNPCC?	umls:celf
+655	550e866271445a662f000005	Intetumumab has been tested in clinical trials for treatment of which cancers?	umls:neop,umls:dsyn
+656	5314bd7ddae131f847000006	Which hormone receptor function is altered in patients with Donohue syndrome?	umls:horm,umls:phsu,umls:aapp
+657	515ffc2b298dcd4e51000035	Which species may be used for the biotechnological production of itaconic acid?	umls:fngs,umls:orgm
+658	5321badd9b2d7acc7e00000a	Which types of cancer can be recognized and treated by the use of immunotherapy?	umls:neop,umls:dsyn
+659	52e8e9d298d0239505000022	Which are the subtypes of Pfeiffer syndrome?	umls:clas,umls:dsyn
+660	55180ef46487737b43000006	What is the typical rash associated with gluten ?	umls:sosy,umls:dsyn
+661	52fa74052059c6d71c00005a	Which are the newly identified DNA nucleases that can be used to treat thalassemia?	umls:enzy,umls:aapp
+662	5540eda30083d1bf0e000006	Which proteins constitute the methyl-directed mismatch repair system (MMR) in bacteria?	umls:aapp
+663	51716e808ed59a060a00000b	Which is the vector of Louping ill virus?	umls:euka,umls:orgm
+664	554101d0234c5a7c75000002	Which receptor(s) recognize lysosomal hydrolases in trans-Golgi network (TGN)?	umls:bpoc,umls:rcpt,umls:gngm,umls:aapp
+665	5508685b4b2a315d4100000a	List the diseases that can be treated using Vedolizumab.	tmtool:Disease,umls:dsyn
+666	53592c1e9a4572de6f000002	Which value of nuchal translucency thickness is set as the threshold for high-risk for Down Syndrome?	_QUANTITY,umls:qnco
+667	553fac39c6a5098552000001	Which genes code for the alpha subunit of the DNA polymerase III in most Firmicutes?	umls:gngm,umls:aapp
+668	56cf4b623975bb303a00000a	List the neurotransmitters that are metabolized by MAOA.	umls:orch,umls:bacs,umls:phsu
+669	55450521bf90a13052000001	What is the effect of enamel matrix derivative on pulp regeneration?	umls:phpr
+670	533c390bc45e13371400000b	What is an acceptable sequence coverage(depth) required for human whole-exome sequencing?	umls:qnco
+671	531a3a58b166e2b806000037	To what extent does HPV vaccination reduce the risk for cervical cancer?	umls:qnco
+672	5339edd6d6d3ac6a34000061	Which is the clinical meaning of the presence of delayed enhancement in patients with hypertrophic cardiomyopathy?	umls:sosy
+673	5156be17d24251bc05000086	What disease is mirtazapine predominantly used for?	umls:mobd,umls:dsyn
+674	516e5f10298dcd4e5100007c	Is cancer related to global DNA hypo or hypermethylation?	_CHOICE,umls:phpr
+675	5540b9800083d1bf0e000002	Alpha-spectrin and beta-spectrin subunits form parallel or antiparallel heterodimers?	umls:qlco
+676	516545a8298dcd4e51000056	Which is the protein (antigen) targeted by anti-Vel antibodies in the Vel blood group?	umls:gngm,umls:aapp
+677	52bf1d6003868f1b0600000e	Which are the subtypes of Pfeiffer syndrome?	umls:dsyn
+678	514c3fd7d24251bc05000062	Intact macromolecular assemblies are analysed by advanced mass spectrometry. How large complexes (in molecular weight) have been studied?	_QUANTITY,umls:qnco
+679	56c1f01cef6e394741000044	What is targeted by Palbociclib?	umls:enzy,umls:rcpt,umls:aapp
+680	515c4f1f298dcd4e51000007	Which genes does thyroid hormone receptor beta1 regulate in the heart?	umls:dsyn,umls:bacs,umls:gngm,umls:aapp
+681	52ffbddf2059c6d71c00007d	Which are the most under-represented oligonucleotides in higher eukaryote genomes?	umls:nusq
+682	5325fdf0600967d132000001	What is the gold standard treatment for Iatrogenic male incontinence?	umls:topp
+683	5357b36cf1005d6b58000006	Which is the main CHEK2 genetic variant, thought to be involved in familial breast cancer?	umls:gngm
+684	52f88d292059c6d71c000036	Which hormone abnormalities are common in Williams syndrome	umls:sosy
+685	553f96191d53b76422000004	Which assays can be used for detecting DNA fragmentation resulting from programmed cell death (apoptosis)?	umls:mbrt
+686	530f900ee3eabad021000003	Which hormone concentrations are altered in patients with the Allan–Herndon–Dudley syndrome?	umls:horm,umls:dsyn
+687	54e8c7220fc566b149000002	Where in the cell does the proteins S100A4 and p53 interact ?	umls:celc
+688	56bc932aac7ad1001900001c	Which molecule is targeted by Daratumumab?	umls:imft,umls:aapp
+689	517194ef8ed59a060a000011	Which is the causative agent of malaria?	umls:bact
+690	53551206a0726bee57000001	What is the major adverse effect of adriamycin(doxorubicin)?	umls:sosy,tmtool:Disease,umls:inpo
+691	56ffdc1ccf1c32585100000b	Which is the most common editing modification in eukaryotic mRNA?	umls:bacs,umls:aapp
+692	54de15f91388e8454a000002	Which are the APOBEC3 protein family members able to inhibit Vif-deficient HIV-1 replication?	tmtool:Gene,umls:gngm,umls:aapp
+693	5306158358348c0f52000001	Which genetic defects are observed in Prader-Willi syndrome?	umls:genf
+694	5149af96d24251bc05000046	Which are the state-of-the-art computational tools for the prediction of gene fusion events?	umls:mnob
+695	5509bd6a1180f13250000002	What disease is small bowel lymphoma commonly associated with	tmtool:Disease,umls:dsyn
+696	54e0d7471388e8454a000015	Which molecule is targeted by a monoclonal antibody Secukinumab?	umls:bacs,umls:aapp
+697	54f9c40ddd3fc62544000001	Which calcium/calmodulin dependent protein phosphatase is involved in the activation of the family of NFAT transcription factors (Nuclear Factors of Activated T cells)?	umls:moft,tmtool:Chemical,umls:enzy,umls:geoa,umls:aapp
+698	532ff917d6d3ac6a34000038	What histone trimethylation has been associated to RNA splicing?	umls:genf
+699	5156be04d24251bc05000085	What gene test is recommended for clopidogrel?	umls:mbrt
+700	514a11add24251bc05000054	Which diseases can Oncotype DX be used for?	umls:neop,umls:dsyn
+701	5165932e298dcd4e51000059	Which are the DNA (cytosine-5-)-methyltransferases inhibitors?	umls:nnon,umls:orch,umls:phsu
+702	5131bef65274a5fb07000008	Which are the main histone modifications associated with enhancers?	umls:genf
+703	5324ce779b2d7acc7e00001e	Which drug is considered as the first line treatment of fibromyalgia?	umls:orch,umls:clnd,umls:phsu
+704	56b773a96e3f8eaf4c000003	With which complexes is the protein SUS1 associated?	umls:celc
+705	5516757c46478f2f2c000008	Which are the main NMD factors in Saccharomyces cerevisiae?	umls:aapp
+706	5160412d298dcd4e5100003c	Which histone marks are deposited by Set7?	umls:genf
+707	56c3184050c68dd416000003	What is the indication for isradipine?	umls:dsyn
+708	54df6ed91388e8454a000007	List non-surgical treatment modalities that are included in the Stupp protocol.	umls:inpr,umls:topp
+709	54e22b62ae9738404b000011	Which genes are associated with Ehlers-Danlos syndrome type I/II?	umls:gngm
+710	551adceb622b194345000018	Which factors are considered in the ABCD2 score?	umls:fndg,umls:orga,umls:orgf,umls:dsyn,umls:tmco
+711	55421398ccca0ce74b000001	What type of DNA repair pathways is initiated by AlkA glycosylase?	umls:genf,umls:biof
+712	532f0b2cd6d3ac6a3400002c	Which are the musculoskeletal manifestations of Marfan syndrome?	umls:sosy
+713	5512c1ee6a8cde6b72000009	Which proteins are the different isoforms of the p38 MAP kinase?	umls:enzy,umls:gngm,umls:aapp
+714	515db70c298dcd4e51000017	What are the reported adverse effects of gabapentin used in children?	umls:sosy
+715	54fb5c69d176fff445000003	Which are the 3 basic transcription factors that have been used for the direct reprogramming of fibroblasts into cardiomyocytes or cardiomyocyte like-cells?	tmtool:Gene,umls:gngm,umls:aapp
+716	530cf4c54a5037880c000008	What is the name of Bruton's tyrosine kinase inhibitor that can be used for treatment of chronic lymphocytic leukemia?	umls:orch,umls:clnd,umls:phsu
+717	54f2210164850a5854000001	How many disulfide bridges has the protein hepcidin got?	_QUANTITY,umls:qnco
+718	5357b9bcf1005d6b58000008	Which are the major intramolecular phosphorylation sites of human Chk2 involved in cell cycle control?	umls:aapp
+719	5542644fed966d112c000004	Which are the methods for in silico prediction of the origin of replication (ori) among bacteria?	umls:resa
+720	55242d512c8b63434a000006	Which receptors can be evaluated with the [18F]altanserin?	umls:rcpt,umls:gngm
+721	550316a6e9bde69634000029	Which diseases have been associated with the PTPN22 620W allele?	umls:dsyn
+722	513f45abbee46bd34c000013	Which extra thyroid tissues have thyrotropin (TSH) receptors?	umls:fndg,umls:tisu
+723	54e0ba781388e8454a000011	Where is the metaxin complex localized?	umls:celc
+724	517843638ed59a060a000036	What are the major classes of retrotransposons active in the human genome?	umls:gngm
+725	55031286e9bde6963400001b	Which are the clinical characteristics of Diamond-Blackfan anemia?	umls:sosy
+726	5335f053d6d3ac6a34000055	How can the expression of SerH3 immobilization antigen be regulated?	umls:topp,umls:biof
+727	533ec7abc45e133714000015	Which factors play a role in promoter proximal pausing of RNA polymerase II?	umls:bacs,umls:gngm,umls:aapp
+728	54ecb640445c3b5a5f000001	Which are the main clinical features of Fanconi anemia?	umls:sosy
+729	56f6c11109dd18d46b00000e	Which is the receptor for the immunosuppressive drug cyclosporin A (CsA)?	tmtool:Chemical,umls:enzy,umls:aapp
+730	513f3d1fbee46bd34c000010	Which drugs may interfere thyroxine absorption?	umls:chem,umls:phsu
+731	536e46f27d100faa09000012	Which is the gene most commonly mutated in Tay-Sachs disease?	umls:gngm
+732	553f7a71ab98a37113000009	In which types of DNA repair is the UvrAB complex involved?	umls:celf
+733	531e2695267d7dd05300000f	What is the localization of the protein encoded by the gene DNAJC11?	umls:celc
+734	515df199298dcd4e5100002a	What is the lay name of the treatment for CCSVI (chronic cerebro-spinal venous insufficiency) in multiple sclerosis.	umls:topp
+735	53148a07dae131f847000002	Which hormone abnormalities are characteristic to Pendred syndrome?	umls:horm
+736	52eea4dcc8da89891000000c	What is the mode of inheritance of long QT Jervell and Lange-Nielsen syndrome?	umls:genf
+737	53355befd6d3ac6a34000046	List programs suitable for protein docking	umls:mnob
+738	52f89f4f2059c6d71c00004e	Which genes have been found mutated in Gray platelet syndrome patients?	umls:gngm
+739	56c85ed65795f9a73e000012	Does dasatinib promote or inhibit T-cell proliferation?	_CHOICE
+740	533c38b3c45e133714000009	What is an approximate number of CTCF binding sites in the human genome?	_QUANTITY,umls:qnco
+741	550712739d0faaa527000008	Which mutations in the cardiac isoform of the ryanodine receptor (RyR2) have been found to be related to CPVT?	umls:aapp
+742	51542e6fd24251bc05000082	Which population has a high frequency of the HLA-B*1502 allele?	umls:popg
+743	53442023aeec6fbd07000007	Which is the substrate of the haspin kinase during mitosis?	umls:aapp
+744	511a20f3df1ebcce7d00000c	Which are the most widely reported side-effects in the treatment of Crohn's disease?	umls:dsyn
+745	534427f8aeec6fbd07000009	Are most driver gene mutations synonymous or non-synonymous?	umls:grpa,_CHOICE
+746	533abc76d6d3ac6a34000064	Which cyclin- dependent kinase inhibitor is regulated by Bmi-1?	umls:enzy,umls:gngm
+747	518cca6f310faafe0800000a	Which microRNAs are involved in exercise adaptation?	umls:nusq,umls:gngm
+748	571f5c150fd6f91b68000009	Which protein is found to be mutated in Friedreich's ataxia?	umls:bacs,umls:aapp
+749	51387022bee46bd34c000002	Which is the process that Conserved noncoding elements mostly regulate?	umls:phsf,umls:phpr
+750	56d1fd67f22319765a000002	List bacterial species identified in the iceman tissues.	umls:bact
+751	56df03c751531f7e3300000a	Which properties of the mRNA does N6-methyladenosine (m6A) affect?	umls:qlco
+752	517775c78ed59a060a000033	List some ways to reverse Tau hyperphosphorylation in Tauopathies?	umls:topp
+753	533be71dfd9a95ea0d000009	Which is the histone residue methylated by MLL1?	umls:aapp
+754	56c8274f5795f9a73e00000d	Which type of cells is affected in Amyotrophic Lateral Sclerosis?	umls:cell
+755	54e0dfa91388e8454a000018	List components of the CRSP/Med complex.	umls:bacs,umls:aapp
+756	5545e65bd355485447000001	Patients of which disease could be treated by utilizing knowledge obtained from experiments suppressing TDP-43 toxicity in yeast?	umls:dsyn
+757	517539e68ed59a060a000028	Which mitochondrial genes are regulated by thyroid hormone?	umls:enzy,umls:gngm,umls:aapp
+758	531464a6e3eabad021000014	Mutation of which gene is associated with McLeod syndrome?	umls:geoa,umls:gngm
+759	53124bdae3eabad02100000b	Which is the molecular target of the immunosuppressant drug Rapamycin?	umls:enzy,umls:aapp
+760	54fc91e96ad7dcbc12000001	PBT2 has been tested for which disorder?	umls:dsyn
+761	52e929eb98d0239505000023	List interaction partners for the protein GATA1.	umls:aapp
+762	53318685d6d3ac6a3400003d	What is the mode of inheritance of Acromicric dysplasia?	umls:genf
+763	518cb5ab310faafe08000008	Which are the best treatment options to treat Helicobacter pylori?	umls:orch,umls:clnd
+764	570a6d03cf1c325851000025	List sclerostin interaction partners.	umls:aapp
+765	5326300fd6d3ac6a34000005	What imaging modalities have been listed as method of choice to diagnose CSF leak?	umls:cell,umls:diap
+766	51be411b047fa84d1d000006	Which are currently available software tools for detecting rare codon clusters in coding sequences?	umls:mnob
+767	511a3573df1ebcce7d000018	How many tissue kallikrein genes are present in the human genome?	_QUANTITY,umls:qnco
+768	56be143eef6e394741000009	Name triad of Wernicke encephalopathy.	umls:sosy,tmtool:Disease
+769	54db7217c4c6ce8e1d000003	How many and which are the different isoforms for the ryanodine receptor?	_QUANTITY,umls:rcpt,umls:qnco
+770	56c865d25795f9a73e000016	Which compound is a specific inhibitor for Nox1 and Nox4?	umls:orch,umls:phsu
+771	550e828c71445a662f000002	Which molecule is targeted by the drug Gevokizumab?	umls:enzy,umls:aapp
+772	5506a7a48e1671127b000008	Which protein phosphatases have been found to dephosphorylate phospholamban?	umls:enzy,umls:aapp
+773	5133b9455274a5fb0700000c	What is the most prominent sequence consensus for the polyadenylation site?	umls:nusq
+774	54f608f85f206a0c06000007	What is the Drosophila melanogaster Groucho protein?	umls:aapp
+775	56c048acef6e39474100001c	Which enzyme is inhibited by Imetelstat?	umls:enzy,umls:aapp
+776	532c12f2d6d3ac6a3400001d	Which are the cardiac effects of thyronamines?	umls:sosy
+777	512d0e635274a5fb07000005	Which is the most widely used anti-TNF drug?	umls:clnd,umls:phsu,umls:aapp
+778	532c0ac4d6d3ac6a3400001a	What are the main benefits of pharmacophore models?	umls:resa
+779	533ba85ffd9a95ea0d000008	What is the frequency of mutations induced spontaneously through Ethylnitrosourea (ENU) mutagenesis?	umls:qnco,umls:clnd
+780	52e7b7cb98d023950500001c	Which drugs affect insulin resistance in obesity?	umls:clnd
